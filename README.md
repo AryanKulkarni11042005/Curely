@@ -68,8 +68,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/curely-v1.git
-cd curely-v1
+git clone https://github.com/AryanKulkarni11042005/Curely.git
+cd Curely
 
 ```
 
